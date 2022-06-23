@@ -1,0 +1,80 @@
+*{
+    margin:0px;
+}
+
+/*
+    Estilos da página index.html
+
+*/
+
+.menu{
+    display: flex;
+    background-color:rgb(208, 154, 88) ;
+    padding: 15px;
+    justify-content: space-around;
+    align-items: flex
+}
+
+li{
+    color: rgb(69, 33, 7);
+    padding-left: 15px;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+/*
+    Estilos da página midiakit.html
+
+*/
+
+.midiakit{
+    margin-top: 20px;
+}
+
+/*
+    Estilos da página contato.html
+
+*/
+
+.contatos{
+    
+margin-left: 15px;
+margin-top: 15px;
+margin-bottom: 15px;
+
+}
+
+.message{
+margin-top: 15px;
+margin-left: 15px;
+    font-size: 25px;
+}
+
+.redesocial{
+    display: flex;
+    justify-content:space-around;
+    align-items:flex-end;
+
+}
+/*
+    Estilos da página showaya.html
+
+*/
+.container {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  width: 40%;
+}
+/*
+    Estilos da página videos.html
+
+*/
